@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Art History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ad85971a-2e5c-fd3c-fa6d-81d4b63f5d79"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Art Since 1940",
+  "course_description": "This subject focuses on the objects, history, context, and critical discussion surrounding art since World War II. Because of the burgeoning increase in art production, the course is necessarily selective. We will trace major developments and movements in art up to the present, primarily from the US; but we will also be looking at art from Europe, Asia, Africa, Latin America, and the Middle East, as well as art \"on the margins\" \u2014 art that has been overlooked by the mainstream critical press, but may have a broad cultural base in its own community. We will ask what function art serves in its various cultures of origin, and why art has been such a lightning rod for political issues around the world.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.651",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Exams",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
